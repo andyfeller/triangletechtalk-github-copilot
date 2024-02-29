@@ -35,8 +35,16 @@ Collection of GitHub Copilot resources for February 2024 Triangle Tech Talks pre
 ## Additional resources
 
 - [GitHub Expert Services](https://github.com/services)
+
+  GitHub Expert Services works with the biggest companies around the world
+  that want to thoroughly transform how they build software including adopt GitHub Copilot.
+
   - [GitHub Copilot for Business Fundamentals Training](https://github.com/services/copilot-for-business-fundamentals-training)
   - [GitHub Copilot for Business Administration and Security](https://github.com/services/github-copilot-for-business-administration-security-intermediate)
   - [GitHub Copilot for Business Adoption at Scale](https://github.com/services/github-copilot-for-business-adoption-at-scale)
   - [GitHub Copilot for Developers Intermediate](https://github.com/services/github-copilot-for-developers-intermediate)
   - [GitHub Technical Advisory Services](https://github.com/services/technical-advisory-services)
+
+- [GitHub Sales contact form](https://github.com/enterprise/contact)
+
+  Not a GitHub or Microsoft customer yet interested in GitHub Copilot?  No problem!
