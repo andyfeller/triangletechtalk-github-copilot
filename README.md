@@ -48,3 +48,10 @@ Collection of GitHub Copilot resources for February 2024 Triangle Tech Talks pre
 - [GitHub Sales contact form](https://github.com/enterprise/contact)
 
   Not a GitHub or Microsoft customer yet interested in GitHub Copilot?  No problem!
+
+- [GitHub Copilot Trust Center](https://resources.github.com/copilot-trust-center/)
+
+  Getting answers to top questions and considerations around GitHub Copilot from GitHub Legal Counsel.
+
+- [GitHub Copilot Business Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-copilot-business-privacy-statement)
+- [GitHub Pre-release License Terms](https://docs.github.com/en/site-policy/github-terms/github-pre-release-license-terms)
