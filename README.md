@@ -31,3 +31,12 @@ Collection of GitHub Copilot resources for February 2024 Triangle Tech Talks pre
 **[Visual Studio Youtube channel](https://www.youtube.com/@visualstudio)**
 
 - [GitHub Copilot for Visual Studio 2022 series](https://www.youtube.com/playlist?list=PLReL099Y5nRckZDdcQ21UigO9pKa14yxC)
+
+## Additional resources
+
+- [GitHub Expert Services](https://github.com/services)
+  - [GitHub Copilot for Business Fundamentals Training](https://github.com/services/copilot-for-business-fundamentals-training)
+  - [GitHub Copilot for Business Administration and Security](https://github.com/services/github-copilot-for-business-administration-security-intermediate)
+  - [GitHub Copilot for Business Adoption at Scale](https://github.com/services/github-copilot-for-business-adoption-at-scale)
+  - [GitHub Copilot for Developers Intermediate](https://github.com/services/github-copilot-for-developers-intermediate)
+  - [GitHub Technical Advisory Services](https://github.com/services/technical-advisory-services)

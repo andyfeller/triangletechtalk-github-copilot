@@ -672,9 +672,10 @@ these slash commands were reimagined as part of a larger native and custom agent
 - `@terminal` - Ask how to do something in the terminal
 - `/help` - Ask for help on using VS Code extension
 
-- [Custom client-side chat agents](https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter#_extensibility)
-  - [Proposed API](https://code.visualstudio.com/api/advanced-topics/using-proposed-api)
-  - [Sample custom client-side chat agent `@cat`](https://github.com/microsoft/vscode-extension-samples/tree/main/chat-agent-sample) 
+Lastly, Visual Studio Code team has been working on how users can create their own [custom client-side chat agents](https://code.visualstudio.com/blogs/2023/11/13/vscode-copilot-smarter#_extensibility) to expand GitHub Copilot capabilities:
+
+- [Proposed API](https://code.visualstudio.com/api/advanced-topics/using-proposed-api)
+- [Sample custom client-side chat agent `@cat`](https://github.com/microsoft/vscode-extension-samples/tree/main/chat-agent-sample) 
 
 ### Visual Studio
 
