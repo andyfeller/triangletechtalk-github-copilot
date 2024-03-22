@@ -3,8 +3,10 @@
 - [GitHub Blog > LLM](#github-blog-llm)
 - [OpenAI](#openai)
 - [Prompt Engineering Guide](#prompt-engineering-guide)
-- [Microsoft Azure AI services](#microsoft-azure-ai-services)
-- [Microsoft Responsible AI (RAI)](#microsoft-responsible-ai-rai)
+- [Microsoft](#microsoft)
+  - [Azure AI services](#azure-ai-services)
+  - [Learn](#learn)
+  - [Responsible AI (RAI)](#responsible-ai-rai)
 
 ## [GitHub Blog](https://github.blog) > [LLM](https://github.blog/tag/llm/)
 
@@ -28,6 +30,7 @@
   - [Safety best practices](https://platform.openai.com/docs/guides/safety-best-practices)
 
 - Additional OpenAI resources
+  - [What is ChatGPT Doing ... and Why Does it Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
   - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
   - [openai/openai-cookbook examples](https://github.com/openai/openai-cookbook/tree/main/examples)
 
@@ -38,7 +41,9 @@
 - [Retrieval Augmented Generation (RAG)](https://www.promptingguide.ai/techniques/rag)
 - [ReAct Prompting](https://www.promptingguide.ai/techniques/react)
 
-## [Microsoft Azure AI services](https://learn.microsoft.com/en-us/azure/ai-services/)
+## Microsoft
+
+### [Azure AI services](https://learn.microsoft.com/en-us/azure/ai-services/)
 
 - [Microsoft Azure OpenAI Service documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/)
   - [Red teaming large language models (LLMs)](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming)
@@ -49,7 +54,11 @@
 
 - [Responsible AI overview](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/overview?context=%2Fazure%2Fai-services%2Fopenai%2Fcontext%2Fcontext)
 
-## Microsoft Responsible AI (RAI)
+### Learn
+
+- [Microsoft Azure AI Fundamentals: AI Overview](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
+
+### Responsible AI (RAI)
 
 Source: [Microsoft](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2)
 
